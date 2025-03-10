@@ -1,0 +1,11 @@
+orderid,customerid,orderdate,totalamount,shipping_address,orderstatus
+9001,1,12/2/2024,1800,"Siroli,Gondia",successful
+9002,2,19-03-2025,1000,"Andheri,Mumbai",successful
+9003,3,29-01-2025,6000,"Mg road,Pune",successful
+9004,4,5/11/2025,2850,"Ameerpeth,Hydrabad",pending
+9005,5,30-06-2024,3560,New Delhi,pending
+9006,6,14-11-2023,780,Dehradun,successful
+9007,7,18-10-2024,290,Banglore,successful
+9008,8,24-04-2025,900,Lonavala,pending
+9009,9,29-06-2024,290,Indore,pending
+9010,10,8/12/2023,920,Prayagraj,successful
