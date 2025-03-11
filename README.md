@@ -5,7 +5,7 @@ I have completed my given task by Brainwave Matrix Solutions.
 
 Task Name : Develop a database for any entity you like i.e hospital ,library, school, movie rental, online store. This project involves more queries and database design. Write some SQL Queries.
 
-I created a OnlineBookStore Database.In this Database i have created total 7 tables(entity) whiich contain different attributes and different values.
+I created a OnlineBookStore Database.In this Database I have created total 7 tables(entity) whiich contain different attributes and different values.
 
 TABLES:
 
@@ -15,7 +15,7 @@ TABLES:
 
   2] Author_Name : The datatype is the varchar and these consist of the name of the author.
 
-2] Books Table :
+2] BOOKS TABLE :
 
   1] bookid : These is the primary keuy in this table and the datatype is int.These contain unique id of the book.
 
@@ -33,7 +33,7 @@ TABLES:
 
   8] publicationyear : Indicates the year of publication of particular book available in store and datatype is int.
 
-3] Customer Table : 
+3] CUSTOMER TABLE : 
 
   1] CUSTOMERID : These is the primary key in these table and the datatype is int.Contains unique id of the customer.
 
@@ -43,13 +43,13 @@ TABLES:
 
   4] mobileno : Contains mobile number of the customer and the datatype is varchar.
 
-4] Genre Table :
+4] GENRE TABLE :
 
   1] genre_id : These is the primary key in these table and the datatype is int.Contains unique id of the genre.
 
   2] genre_name : Contains name/type of the genre and the datatype is varchar.
 
-5] Orders Table :
+5] ORDERS TABLE :
 
   1] orderid : These is the primary key in these table and the datatype is int.Contains unique id of the genre.
 
@@ -63,7 +63,7 @@ TABLES:
 
   6] orderstatus : These indicates order status and the datatype is varchar.
 
-6] Orderitems Table :
+6] ORDERITEMS TABLE :
 
   1] orderitemid : Indicates id of the ordered item and the datatype is int.These is the primary key in these table.
 
@@ -75,7 +75,7 @@ TABLES:
 
   5] price : Indicates price and the datatype is int.
 
-7] Payment Table :
+7] PAYMENT TABLE :
 
   1] PaymentId : Indicates unique id of the payment and the datatype is int.This is the primary key in these table.
 
